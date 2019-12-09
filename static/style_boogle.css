@@ -1,0 +1,219 @@
+#frame{
+    width: 368px;
+    height: 416px;
+    position: absolute;
+    top: calc(50% - 250px);
+    left: calc(50% - 224px);
+    margin: 0px;
+    padding: 48px 40px 36px 40px;
+    border: lightgray solid 0.5px;
+    border-radius: 7px;
+}
+
+#inscription_title{
+    width: 75px;
+    height: 24px;
+    font-size: 24px;
+    font-family: Arial;
+    position: absolute;
+    left: calc(50% - 37.5px);
+    top: 44px;
+}
+
+#box_sign_in{
+    width: 368px;
+    height: 32px;
+    padding-top: 16px;
+    position: absolute;
+    top: 72px;
+}
+
+#inscription_sign_in{
+    width: 69px;
+    height: 30px;
+    position: absolute;
+    left: calc(50% - 34.5px);
+    top: 18px;
+    font-family: Arial;
+    font-size: 22.4px;
+}
+
+#box_continue_to{
+    width: 368px;
+    height: 24px;
+    padding-top: 8px;
+    position: absolute;
+    top: 120px;
+}
+
+#inscription_continue_to{
+    width: 128.7px;
+    height: 22px;
+    position: absolute;
+    left: calc(50% - 64.35px);
+    top: 10px;
+    font-family: Arial;
+    font-size: 16.1px;
+}
+
+#box_rest{
+    width: 368px;
+    height: 96px;
+    padding-top: 24px;
+    position: absolute;
+    top: 157px;
+}
+
+#search_box{
+    width: 326px;
+    height: 28px;
+    padding: 13px 15px 13px 15px;
+    margin: 0px;
+    font-size: 16px;
+}
+
+#search_box:active{
+    border-color: #4285f4;
+    border-radius: 5px;
+}
+
+#box_forgot_email{
+    width: 368px;
+    height: 20px;
+    padding: 9px 0px 3px 0px;
+    position: relative;
+}
+
+#forgot_email{
+    width: 100px;
+    height: 19px;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 2px;
+}
+
+#box_neki{
+    width: 368px;
+    height: 40px;
+    padding: 9px 0px 3px 0px;
+    position: absolute;
+    top: 307px;
+}
+
+#private_window{
+    font-family: Arial;
+    font-size: 14px;
+}
+
+#learn_more{
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    top: 2px;
+}
+
+#box_account_next{
+    width: 368px;
+    height: 36px;
+    position: absolute;
+    top: 386px;
+}
+
+#create_account{
+    width: 104.5px;
+    height: 20px;
+    position: absolute;
+    top: 8px;
+    padding-top: 2px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#button_next{
+    width: 88px;
+    height: 36px;
+    background-color: #4285f4;
+    position: absolute;
+    left: 280px;
+    top: 0px;
+    border-radius: 5px;
+    border-width: 0px;
+    color: white;
+    font-size: 14px;
+}
+
+#box_bottom{
+    width: 448px;
+    height: 29px;
+    position: absolute;
+    left: calc(50% - 224px);
+    top: calc(50% + 268px);
+}
+
+#button_english{
+    width: 170px;
+    height: 17px;
+    padding: 0px;
+    position: absolute;
+    left: 0px;
+    top: 6px;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+#button_help{
+    width: 57px;
+    height: 29px;
+    border-width: 0px;
+    border-color: white;
+    font-size: 12px;
+    background-color: white;
+    position: absolute;
+    left: 269px;
+}
+
+#button_privacy{
+    width: 72px;
+    height: 29px;
+    position: absolute;
+    left: 326px;
+    border-width: 0px;
+    border-color: white;
+    font-size: 12px;
+    background-color: white;
+}
+
+#button_terms{
+    width: 65px;
+    height: 29px;
+    position: absolute;
+    left: 398px;
+    border-width: 0px;
+    border-color: white;
+    font-size: 12px;
+    background-color: white;
+}
+
+.text_blue{
+    color: #4285f4;
+}
+
+.text_red{
+    color: #ea4335;
+}
+
+.text_yellow{
+    color: #fbbc05;
+}
+
+.text_green{
+    color: #34a853;
+}
+
+.text_gray{
+    color: dimgray;
+}
